@@ -1,5 +1,5 @@
 # CoreyBailey.org
-This repository is the code used to generate my personal site, [coreybailey.org](http://www.coreybailey.org).
+This repository is the code used to generate my personal site [coreybailey.org](http://www.coreybailey.org).
 
 
 ## License
