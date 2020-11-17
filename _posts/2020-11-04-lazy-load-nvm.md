@@ -3,13 +3,14 @@ layout: post
 title: Lazy Loading NVM
 ---
 
-As with most developers experiencing significant slow down of shell
-initialization post <code>nvm</code> installation, it became clear it
-was a problem that would have to be solved. After searching the
-web and referencing the <code>nvm</code> README for a solution, I came across an article
-by [evanbrodie][00]. The solution was practical, but I
-prefered a slightly dryer syntax which for my purposes replaced the multiple
-function definitions with a <code>for</code> loop. 
+As with most developers experiencing sluggish shell initialization
+post <code>nvm</code> install, it was proving a situation impacting
+productivity. So after a few quick google queries I landed upon an
+article by [evanbrodie][00] which pointed to a gist providing a clean
+solution to the problem. For my purposes I implemented a slightly
+dryer syntax by replacing the multiple function definitions with a
+<code>for</code> loop. Lazy loading <code>nvm</code> with this method
+cut shell initialization time down by half.
 
 ```bash
 export NVM_DIR=~/.nvm
