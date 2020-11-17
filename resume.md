@@ -22,13 +22,12 @@ US Security Clearance: TS/SCI SI/TK/B with CI Polygraph (**EXPIRED**).
 
 ## Experience
 
-### iOS App Development
 
-Freelance (Oct 2020 - Present)
+### Front-End Engineer
 
-* Work closely with product owners, stake holders and design team to develop components to specification for Oracle/BEA Weblogic application servers.
-* Implemented Node tooling to automate time-consuming tasks in development workflows, and modernize development processes for newer projects.
-* Developed Message Center interface as a Single Page Application using angularjs-ie8-build which gave customers a broader view of Marketplace related activity and opportunities.
+CT Food Packaging (Oct 2020 - Present)
+
+* Taking the existing responsive website and providing a Native app option for mobile devices using Ionic, Capacitor and X-code.
 
 
 ### User Interface Engineer
