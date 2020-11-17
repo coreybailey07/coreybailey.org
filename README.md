@@ -1,7 +1,9 @@
-# CoreyBailey.org
+CoreyBailey.org
+===============
 
-This repository is the code used to generate my personal site [coreybailey.org](http://www.coreybailey.org).
+This repository is used to generate my personal site [coreybailey.org](http://www.coreybailey.org). 
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/coreybailey07/coreybailey.org?style=flat-square)
 
 ## License
 
