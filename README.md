@@ -1,10 +1,11 @@
-CoreyBailey.org
-===============
+CoreyBailey.org Site
+====================
 
-This repository is used to generate my personal site [coreybailey.org](http://www.coreybailey.org). 
+This repository is used to generate my personal website, [coreybailey.org](http://www.coreybailey.org). 
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/coreybailey07/coreybailey.org?style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/coreybailey07/coreybailey.org)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/coreybailey07/coreybailey.org?include_prereleases)
 
 ## License
 
-The editorial content of this project is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">CC BY-SA 3.0</a>.
+This code is released under the [MIT License](LICENSE.md).
