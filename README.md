@@ -1,5 +1,5 @@
-CoreyBailey.org Site
-====================
+coreybailey.org 
+===============
 
 This repository is used to generate my personal website, [coreybailey.org](http://www.coreybailey.org).
 
