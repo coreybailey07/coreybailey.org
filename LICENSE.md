@@ -4,7 +4,7 @@
 
 All code, algorithms, etc. by Corey Bailey are licensed under the MIT License unless stated otherwise.
 
-(c) 2019 Corey Bailey
+(c) 2019 Corey Bailey 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
