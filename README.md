@@ -9,4 +9,4 @@ This repository is used to generate my personal website, [coreybailey.org](http:
 
 ## About
 
-This is a fork of hyde updated for Jekyll v4.2.0. This code is released under the [MIT License](LICENSE.md).
+This project was built on a fork of the hyde theme by [@mdo](@mdo). This code is released under the [MIT License](LICENSE.md).
