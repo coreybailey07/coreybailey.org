@@ -9,4 +9,4 @@ This repository is used to generate my personal website, [coreybailey.org](http:
 
 ## About
 
-This project was built on a fork of the hyde theme by [@mdo](@mdo). This code is released under the [MIT License](LICENSE.md).
+The website was built on a fork of hyde by [@mdo](https://twitter.com/mdo). It is released under the [MIT License](LICENSE.md).
