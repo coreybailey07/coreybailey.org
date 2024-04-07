@@ -9,4 +9,4 @@ This repository is used to generate my [personal website](http://www.coreybailey
 
 ## About
 
-Built as a <abbr title="Progressive Web App">PWA</abbr> on a fork of Hyde by [@mdo](https://twitter.com/mdo), it is licensed under the [MIT License](LICENSE.md).
+Built as a Progressive Web App on a fork of Hyde by [@mdo](https://twitter.com/mdo), it is licensed under the [MIT License](LICENSE.md).
